@@ -1,4 +1,4 @@
-# FZ1M
+# Robô FZ1m - Robô controlado pela linguagem Scratch 3.0
  Repositório com os arquivos de projeto do robô FZ1M.
  
  Progresso:
